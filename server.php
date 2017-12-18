@@ -21,3 +21,19 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 require_once __DIR__.'/public/index.php';
 
 //teste
+//teste2
+?>
+<body>
+    Meu Site
+
+
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="sobre.html"&gt;Sobre&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="contato.html"&gt;Contato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</body>
+</html>
